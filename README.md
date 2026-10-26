@@ -174,6 +174,15 @@ FQGate 默认只监听当前电脑的本机地址，Agent 不会连接公网或�
 | <img src="./assets/sponsors/adong.jpg" alt="阿东" width="40" height="40"> | 阿东 | 微信 | 188 | 2026-10-3 |
 | <img src="./assets/sponsors/avatar-placeholder.svg" alt="宏渭" width="40" height="40"> | 宏渭 | 微信 | 5 | 2026-10-3 |
 | <img src="./assets/sponsors/9-59.jpg" alt="9.59" width="40" height="40"> | 9.59 | 微信 | 50 | 2026-10-5 |
+| <img src="./assets/sponsors/avatar-placeholder.svg" alt="**波" width="40" height="40"> | \*\*波 | 支付宝 | 58 | 2026-10-11 |
+| <img src="./assets/sponsors/avatar-placeholder.svg" alt="**湘" width="40" height="40"> | \*\*湘 | 支付宝 | 9.9 | 2026-10-12 |
+| <img src="./assets/sponsors/avatar-placeholder.svg" alt="**雨" width="40" height="40"> | \*\*雨 | 支付宝 | 1 | 2026-10-12 |
+| <img src="./assets/sponsors/avatar-placeholder.svg" alt="开心" width="40" height="40"> | 开心 | 微信 | 5.00 | 2026-10-14 |
+| <img src="./assets/sponsors/avatar-placeholder.svg" alt="王云" width="40" height="40"> | 王云 | 微信 | 20 | 2026-10-14 |
+| <img src="./assets/sponsors/avatar-placeholder.svg" alt="**招" width="40" height="40"> | \*\*招 | 支付宝 | 20 | 2026-10-16 |
+| <img src="./assets/sponsors/avatar-placeholder.svg" alt="自己" width="40" height="40"> | 自己 | 微信 | 100 | 2026-10-19 |
+| <img src="./assets/sponsors/avatar-placeholder.svg" alt="*雷" width="40" height="40"> | \*雷 | 支付宝 | 20 | 2026-10-24 |
+| <img src="./assets/sponsors/avatar-placeholder.svg" alt="无名" width="40" height="40"> | 无名 | 微信 | 20 | 2026-10-26 |
 
 
 
